@@ -1,0 +1,8 @@
+.venv/
+.idea/
+config.py
+chromedriver.exe
+cookies.pkl
+__pycache__/
+*.pyc
+*.log
